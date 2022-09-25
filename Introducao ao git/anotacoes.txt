@@ -1,0 +1,3 @@
+link para download do git: apenas teste
+
+O git bash e um terminal extendido para otimizar o uso do GIT
